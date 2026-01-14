@@ -10,8 +10,8 @@ title: 美味產品
 ![巧克力可頌](assets/img/choco.jpg)
 香脆的外皮包裹著濃郁的巧克力。
 
-### 草莓蛋糕 (Strawberry Cake)
-![草莓蛋糕](assets/img/strawberry.jpg)
-嚴選當季草莓，每一口都是幸福。
+### 抹茶蛋糕 (Matcha Cake)
+![抹茶蛋糕](assets/img/matcha.jpg)
+嚴選日本抹茶，每一口都是清新好滋味。
 
 [回首頁](index.html)
