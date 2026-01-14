@@ -8,6 +8,7 @@ title: 美味產品
 
 ### 巧克力可頌 (Chocolate Croissant)
 ![巧克力可頌](assets/img/choco.jpg)
+
 香脆的外皮包裹著濃郁的巧克力。
 
 ### 抹茶蛋糕 (Matcha Cake)
